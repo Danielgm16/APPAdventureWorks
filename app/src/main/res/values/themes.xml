@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Cambia el parent a Theme.MaterialComponents -->
+    <style name="Theme.ClientesAppF" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Aquí puedes agregar tus personalizaciones -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
